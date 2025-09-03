@@ -1,5 +1,7 @@
 # PharmaTrade International Portfolio Website
 
+## live link : https://pharma-trade-bd.vercel.app/
+
 ## Overview
 This is a responsive portfolio website for PharmaTrade International, a pharmaceutical indenting company specializing in sourcing and supplying high-quality pharmaceutical ingredients and specialty chemicals.
 
