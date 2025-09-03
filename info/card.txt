@@ -1,0 +1,512 @@
+
+Cards : 
+animal category =
+
+      ANIMAL HEALTH PRODUCTS :                         
+•	Marbofloxacin
+•	Afoxolaner                                                                       
+•	Albendazole                                                                                      
+•	Apramycin Sulfate
+•	Bacitracin Zinc
+•	Butaphosphan
+•	Cefovecin Sodium
+•	Colistin Sulfate
+•	Diclazuril
+•	Difloxacin hydrochloride
+•	Doxycycline HCL
+•	Enrofloxacin
+•	Florfenicol
+•	Flunixin Meglumine
+•	Fluralaner
+•	Gentamycin Sulfate
+•	Griseofulvin
+•	Ivermectin
+•	Kitasamycin Tartrate
+•	Levamisole HCL
+•	Lincomycin HCL
+•	Milbemycin oxime
+•	Moxidectin     
+
+
+ANIMAL FEED ADDITIVES :
+•	Choline Chloride 75% 
+•	Choline Chloride (70%, 60%, 50%, Corn Cob as carrier)
+•	Choline Chloride 50% (Silica As Carrier)
+•	Betaine Hcl 98%
+•	Allicin 25%
+•	Allicin 98% 99%
+•	Probiotic
+•	Yeast powder 45% to 70%
+•	Brewer yeast 40% to 45%
+•	Meat And Bone Meal
+•	Dcp 18%
+•	Calcium Dihydrogen Phosphate 22%
+•	Calcium Lactate (Of Feed Grade)99%
+•	Lysine hcl 98.5%
+•	Lysine70%
+•	Vitamin
+•	Mixing feed additive
+•	Oregano oil 80% 90% 98%
+•	Oregano oil 10% 20%
+•	Betaine Anhydrous 96% 98%
+•	Calcium Formate 98%
+
+Pharmaceuticals category =
+
+ANTIBIOTICS : 
+•	Azithromycin
+•	Clarithromycin
+•	Erythromycin Thiocyanate
+•	Ciprofloxacin Hydrochloride
+•	Levofloxacin Hemihydrate
+•	Moxifloxacin Hydrochloride
+•	Norfloxacin
+•	Ofloxacin
+•	Amoxicillin Trihydrate
+•	Ampicillin Trihydrate
+•	Penicillin V Potassium
+•	Aztreonam
+•	Biapenem
+•	Faropenem Sodium Hemipentahydrate
+•	Imipenem-Cilastatin
+•	Meropenem
+•	Metronidazole
+•	Chloramphenicol
+•	Culftehlortetracycline Hydrochloride
+•	Clindamycin Phosphate/HCL
+•	Furazolidone
+•	Fusidate Sodium
+•	Isoniazid
+•	Kanamycin Sulfate
+•	Lincomycin Hydrochloride 
+•	Minocycline Hydrochloride
+•	Nitrofurantoin
+•	Rifampicin
+•	Thiamphenicol
+•	Tetracycline Hydrochloride
+•	Vancomycin Hydrochloride
+•	Cefalexin
+•	Cefazolin Sodium
+•	Cefradine
+•	Cefadroxil
+•	Cefaclor
+•	Cefuroxime Axetil
+•	Ceftriaxone Sodium
+•	Cefotaxime Sodium
+•	Cefoperazone Sodium
+•	Ceftiofur Hydrochloride
+•	Vancomycin
+•	Daptomycin
+•	Bleomycine
+•	Polymyxin B
+•	Ceftaroline Fosamil
+•	Furaltadone HCL
+•	Polymyxin B Sulphate
+
+ANTI-INFLAMATORY :
+•	Iguratimode
+•	Imrecoxib
+•	Tofacitinib Citrate
+•	Mirogabalin Besylate
+•	Nepafenac
+•	Ubrogepant
+•	Rimegepant sulfate hydrate
+•	Upadacitinib hemihydrate
+•	Celecoxib
+•	Baricitinib
+•	Pimecrolimus
+•	Dantrolene sodium
+•	Tofacinitib citrate
+•	Lasmiditan Succinate
+•	Phloroglucinol 
+•	Aspirin
+•	Diclofenac Potassium /Sodium
+•	Indomethacin
+•	Ketoprofen
+•	Levodopa
+•	Paracetamol
+•	Meloxicam
+•	Naproxen Base/Sodium
+•	Piroxicam
+ ANTIVIRAL :
+•	Acyclovir
+•	Amantadine Hydrochloride
+•	Daclatasvir
+•	Entecavir
+•	Ganciclovir
+•	Lamivudine
+•	Nevirapine
+•	Ribavirin
+•	Sofosbuvir
+•	Tenofovir Disoproxil Fumarate
+•	Valacyclovir
+•	Baloxavir Marboxil
+•	Baloxavir
+•	Ganciclovir
+•	Valganciclovir Hydrochloride
+
+ANTIFUNGAL:
+•	Clotrimazole
+•	Griseofulvin
+•	Terbinafine Hydrochloride
+•	Posaconazole
+•	Isavuconazole
+•	Efinaconzole
+•	Oseltamivir Phosphate
+•	Caspofungin Acetate
+•	Micafungin Sodium 
+•	Luliconazole
+
+ANTIPARASITIC:
+•	Antimony Potassium Tartrate
+•	Niclosamide
+•	Oxantel Pamoate  
+•	Artemisinin
+•	Lumefantrine
+
+ENZYME:
+•	Bromelain
+•	Chymotrypsin
+•	Lactase
+•	Papain
+•	Trypsin-Chymotrypsin
+
+DIET DRUGS:
+•	Orlistat
+
+CARDIOVASCULAR AGENTS:
+•	Atorvastatin Calcium 
+•	Azilsartan Medoxomil
+•	Candesartan
+•	Captopril
+•	Enalapril Maleate
+•	Fenofibrate
+•	Heparin Sodium
+•	Hydrochlorothiazide
+•	Indapamide
+•	Irbesartan
+•	Lisinopril
+•	Losartan Potassium
+•	Lovastatin
+•	Methyldopa
+•	Minoxidil
+•	Nifedipine
+•	Pitavastatin Calcium
+•	Propranolol HCL
+•	Ramipril
+•	Rosuvastatin Calcium
+•	Simvastatin
+•	Spironolactone
+•	Telmisartan
+•	Valsartan
+•	Dronedarone hydrochloride
+•	Azilsartan Medoxomil Potassium
+•	Aprocitentan
+•	Mavacamten
+•	Bempedoic Acid
+
+ANTIDIABETIC DRUGS:
+•	Acarbose
+•	Dapagliflozin Propanediol Monohydrate
+•	Empagliflozin
+•	Ertugliflozin L-Pyroglutamic Acid
+•	Gliclazide
+•	Linagliptin
+•	Metformin HCL
+•	Omarigliptin
+•	Semaglutide
+•	Sitagliptin Phosphate
+•	Sotagliflozin
+•	Trizepatide
+•	Finerenone
+•	Lobeglitazone Sulfate
+•	Tirzepatide
+•	Liraglutide
+•	Semagalutide
+
+GASTROINTESTINAL AGENTS:
+•	Cimetidine Type A/AB
+•	Granisetron Hydrochloride 
+•	Ondansetron Hydrochloride
+•	Pancreatin
+•	Rebamipide
+•	Sucralfate
+•	Sulpiride
+•	Trimebutine Maleate
+•	Ursodeoxycholic Acid
+•	Vonoprazan fumarate
+•	Levocarnitine
+
+CENTRAL NERVOUS SYSTEM AGENTS:
+•	 Clozapine
+•	Lithium Carbonate
+•	Venlafaxine Hydrochloride
+•	Betahistine Mesylate
+•	Pimavanserin Tartarate
+•	Cenobamate
+•	Palonosetron HCL
+•	Netupitant
+•	Oxcarbazepine
+•	Eslicarbazepine Acetate
+•	Escitalopram Oxalate
+•	Citalopram Hydrobromide
+•	Cariprazine Hydrochloride
+
+HORMONE AND STEROIDS:
+•	Betamethasone 
+•	Budesonide
+•	Clobetasol
+•	Cyproterone Acetate
+•	Desogestrel
+•	Deflazacort
+•	Dexamethasone
+•	Dydrogesterone
+•	Estradiol
+•	Ethinylestradiol
+•	Finasteride
+•	Fluticasone Propionate
+•	Fludrocortisone Acetate
+•	Fluocinolone Acetonide
+•	Hydrocortisone Base/Acetate
+•	Lynestrenol
+•	Medroxyprogesterone Acetate
+•	Megestrol Acetate
+•	Mometasone Furoate
+•	Methylprednisolone
+•	Mifepristone
+•	Oxytocin
+•	Prednisolone
+•	Prednisolone Sodium Phosphate
+•	Triamcinolone Acetonide
+•	Ulipristal Acetate
+•	Loteprednol etabonate
+•	Progesterone 
+•	Pregnenolone
+•	Levonorgestrel
+•	Norethisterone
+•	Norethisterone Acetate
+•	Norethisterone Enanthate
+•	Drospirenone
+•	Gestodene
+•	Estriol
+•	Estradiol Valerate
+•	Estradiol Cypionate
+•	Tibolone
+•	Dienogest
+•	Exemestane
+•	Dutasteride
+•	Abiraterone Acetate
+•	Darolutamide
+•	Testosterone
+•	Testosterone Undecanoate
+•	Testosterone Cypionate
+•	Testosterone Enanthate
+•	Testosterone Propionate
+•	DHEA(Prasterone)
+•	Clascoterone 
+•	Budesonide 
+•	Desonide 
+•	Eplerenone
+•	Methylprednisolone Hemisuccinate
+•	Fluticasone Furoate
+•	Apalutamide
+•	Relugolix
+
+RESPIRATORY:
+•	Ambroxol Hydrochloride
+•	Acetylcysteine
+•	Bromhexine Hydrochloride
+•	Carbocisteine
+•	Revefenacin
+
+ANTICANCER DRUGS:
+•	Betahistine Mesylate
+•	Bendamustine
+•	Capecitabine Hydrochloride
+•	Erlotinib Hydrochloride
+•	Everolimus
+•	Gefitinib
+•	Gemcitabine
+•	Irinotecan Hydrochloride
+•	Imatinib Mesylate
+•	Lenalidomide
+•	Letrozole
+•	Anastrozole 
+•	Fulvestrant
+•	Everolimus
+•	Enzalutamide
+•	Lapatinib Ditosylate 
+•	Eribulin Mesylate
+•	Sunitinib
+•	Olaparib
+•	Palbociclib
+•	Ribociclib
+•	Osimertinib Mesylate
+•	Ruxolitinib phosphate
+•	Abemaciclib 
+•	Paclitaxl Semi Synthetic Natural
+•	Docetaxel anhydrous
+•	Docetaxel Trihydrate
+•	Cabazitaxel
+•	Etoposide
+•	Irinotecan HCL Trihydrate
+•	Vinblastine Sulfate
+•	Vincristine Sulfate
+•	Vinorelbine Tartarate
+•	Methotrexate
+
+Nutraceuticals category =
+Nutraceuticals :
+•	Alpha-Lipoic Acid
+•	Calcipotriol
+•	Calcium Gluconate
+•	Iron Dextran 
+•	Iohexol
+•	Iopamidol
+•	L-carnitine
+•	Nepafenac
+•	Sulfamethoxazole
+•	Sodium Chloride
+•	Tolperisone Hydrochloride
+•	Tranexamic Acid
+•	Trimethoprim 
+•	Bicyclol
+•	Ritlecitinib Tosylate
+•	Etrasimod Arginine 
+•	Avatrombopag Maleat
+•	Avanafil
+•	Febuxostat
+•	Pidotimod
+•	Ataluren (PTC124)
+•	Topiroxostrat 
+•	Tacrolimus
+•	Febuxoatat
+•	Mirabegron
+•	Vibegron
+•	Tadalafil
+•	1,3,5-Trimethoxybenzene
+•	Ursodeoxycholic Acid
+•	Tauroursodeoxycholic Acid
+•	Cholesterol
+•	Omega-3-Acid Ethyl Ethers 90
+•	Medium-Chain Triglycerides
+•	Benzalkonium Chloride
+•	Olive Oil (For Injection)
+•	Egg phospholipids (For Injection)
+•	SNAC
+•	Empty Hard Gelatin Capsule
+•	Povidone Iodine
+NEW PRODUCTS:
+•	Daprodustat                  
+•	Deucravacitinib              
+•	Dotinurad                         
+•	Entrectinib                         
+•	Finerenone                         
+•	Lorlatinib                             
+•	Omarigliptine                       
+•	Osimertinib                          
+•	Pacetinib citrate                   
+•	Palbociclib                         
+•	Ribociclib      
+•	Roxadustat                          
+•	Sotorasib(AMG510)             
+•	Tapinarof                               
+•	Tucatinib                                  
+•	Upadacitinib hemihydrate   
+•	Vericiguat     
+•	Vonoprazan Fumarate 
+•	Voxelotor  
+•	Zuranolone  
+FOOD ADDITIVES & VITAMINS:
+•	Alpha Arbutin
+•	Alpha Lipoic Acid
+•	Aspartame
+•	Beta-Alanine
+•	Coenzyme Q10
+•	D-Tartaric acid
+•	DL-Malic acid
+•	Fumaric Acid
+•	GABA
+•	Methyl Sulfonyl Methane
+•	L-Carnitine Tartrate
+•	L-Glutathione Reduced
+•	L-Lysine Hcl
+•	L-Pyroline
+•	L-Pyroglutamic Acid
+•	Silymarin
+•	Sodium Citrate
+•	Sodium Hyaluronate
+•	Soy Protein Isolate
+•	Sorbic acid
+•	Sucralose
+•	Vitamin C
+•	5-HTP
+
+PLANT EXTRACTS category =
+PLANT EXTRACTS :
+•	Avena Sativa Extract 4:1
+•	Arbutine
+•	Chicory Extract
+•	Citrus Aurantinum Extract
+•	Deoxyarbutin
+•	Diosmin
+•	Echinacea Extract
+•	Epimedium Extract
+•	Ginger Extract
+•	Ginkgo flavone glycosides
+•	Total terpene lactones
+•	Grapefruit Seed Extract
+•	Hawthorn Flavones
+•	Hesperidin
+•	Evening primrose oil
+•	Horsetail Extract
+•	Huperzia serrata Extract
+•	L-(+)Rhamnose,monohydrate
+•	Luteolin
+•	Lycopene
+•	Maca Root Extract
+•	Mulberry Leaf Extract
+•	Naringin
+•	Polygonum Extract
+•	Pomegranate Extract
+•	Pueraria
+•	Quercetin
+•	Red Clover plant Extract
+•	Reishi Mushroom Extract
+•	Reseverratrol
+•	Rose hip Extract
+•	Rutin
+•	Salisorosides Rosavin
+•	Silymarin
+•	Stigmasterol
+•	Tea Polyphenols,Catchines,EGCG
+•	Tribulus Terrestris Extract
+•	Troxerutin
+•	Turmeric Extract
+•	Wolfberry Extract
+•	Wild Yam Extract
+
+New products category =
+   Products :
+•	Daprodustat                  
+•	Deucravacitinib              
+•	Dotinurad                         
+•	Entrectinib                         
+•	Finerenone                         
+•	Lorlatinib                             
+•	Omarigliptine                       
+•	Osimertinib                          
+•	Pacetinib citrate                   
+•	Palbociclib                         
+•	Ribociclib      
+•	Roxadustat                          
+•	Sotorasib(AMG510)             
+•	Tapinarof                               
+•	Tucatinib                                  
+•	Upadacitinib hemihydrate   
+•	Vericiguat     
+•	Vonoprazan Fumarate 
+•	Voxelotor  
+•	Zuranolone  
+
+

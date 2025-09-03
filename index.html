@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PharmaTrade - Delivering Quality, Building Partnerships</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="icon" href="info/logo.png">
+</head>
+<body>
+    <!-- Navbar Section -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="logo">
+            <h1><a href="#home">PharmaTrade</a></h1>
+        </div>
+            <div class="nav-links" id="navLinks">
+                <i class="fas fa-times" id="closeMenu"></i>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#products">Products</a></li>
+                    <li><a href="#about">About Us</a></li>
+                </ul>
+            </div>
+            <i class="fas fa-bars" id="openMenu"></i>
+        </div>
+    </nav>
+
+    <!-- Banner Section -->
+    <section class="banner" id="home">
+        <div class="container">
+            <div class="banner-content">
+                <h1>Delivering Quality, Building Partnerships</h1>
+                <p>Your trusted partner for high-quality pharmaceutical ingredients and specialty chemicals worldwide.</p>
+                <div class="banner-buttons">
+                    <a href="#products" class="btn btn-primary">Products</a>
+                    <a href="#contact" class="btn btn-secondary">Contact</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Products Section -->
+    <section class="products" id="products">
+        <div class="container">
+            <h2 class="section-title">Our Products</h2>
+            <div class="products-container">
+                <!-- Categories Sidebar -->
+                <div class="categories">
+                    <h3>Categories</h3>
+                    <div class="search-container">
+                        <input type="text" id="productSearch" placeholder="Search products..." class="search-input">
+                        <button id="searchButton" class="search-button"><i class="fas fa-search"></i></button>
+                    </div>
+                    <ul>
+                        <li class="category-item active" data-category="animal">Animal</li>
+                        <li class="category-item" data-category="pharmaceuticals">Pharmaceuticals</li>
+                        <li class="category-item" data-category="nutraceuticals">Nutraceuticals</li>
+                        <li class="category-item" data-category="plant-extracts">Plant Extracts</li>
+                        <li class="category-item" data-category="new-products">New Products</li>
+                    </ul>
+                </div>
+
+                <!-- Product Cards -->
+                <div class="product-cards" id="productCards">
+                    <!-- Product cards will be dynamically loaded here -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Us Section -->
+    <section class="about" id="about">
+        <div class="container">
+            <h2 class="section-title">About Us</h2>
+            <div class="about-content">
+                <p class="about-intro">At Pharmatrade International, we are a trusted pharmaceutical indenting company committed to bridging the gap between global suppliers and local manufacturers. With a deep understanding of the industry and a strong global network, we specialize in sourcing and supplying high-quality Active Pharmaceutical Ingredients (APIs), intermediates, excipients, and other specialty chemicals.</p>
+                
+                <div class="about-blocks">
+                    <div class="about-block">
+                        <h3>Our Mission</h3>
+                        <p>To provide reliable, timely, and quality pharmaceutical sourcing solutions that meet the evolving needs of our partners and contribute to better healthcare outcomes.</p>
+                    </div>
+                    
+                    <div class="about-block">
+                        <h3>Our Vision</h3>
+                        <p>To be recognized as a leading indenting partner in the pharmaceutical sector, known for our integrity, innovation, and customer-centric approach.</p>
+                    </div>
+                </div>
+                
+                <div class="about-block">
+                    <h3>What We Do</h3>
+                    <ul>
+                        <li><strong>Indenting Services:</strong> We act as an essential link between manufacturers and importers, ensuring smooth transactions and regulatory compliance.</li>
+                        <li><strong>Product Sourcing:</strong> We connect our clients with top-quality APIs, excipients, and formulations from reputed global suppliers.</li>
+                        <li><strong>Regulatory Support:</strong> Our team offers end-to-end assistance in documentation, DMF handling, and regulatory approvals.</li>
+                    </ul>
+                </div>
+                
+                <div class="about-block">
+                    <h3>Why Choose Us</h3>
+                    <ul>
+                        <li><strong>Global Network:</strong> Partnerships with leading manufacturers across China.</li>
+                        <li><strong>Experienced Team:</strong> Professionals with technical expertise and industry insights.</li>
+                        <li><strong>Customer-Focused:</strong> Customized solutions to meet specific client needs.</li>
+                        <li><strong>Compliance & Quality:</strong> Commitment to sourcing from GMP-compliant, regulatory-approved suppliers.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer Section -->
+    <footer id="contact">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-links">
+                    <h3>Quick Links</h3>
+                    <ul>
+                        <li><a href="#products" data-category="animal">Animal Products</a></li>
+                        <li><a href="#products" data-category="pharmaceuticals">Pharmaceuticals</a></li>
+                        <li><a href="#products" data-category="nutraceuticals">Nutraceuticals</a></li>
+                        <li><a href="#products" data-category="plant-extracts">Plant Extracts</a></li>
+                        <li><a href="#products" data-category="new-products">New Products</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-contact">
+                    <h3>Contact Us</h3>
+                    <div class="contact-info">
+                        <p><strong>Md. Obaidul Kabir</strong></p>
+                        <p>Partner, Strategic Business Development</p>
+                        <p><i class="fas fa-phone"></i> Phone/WhatsApp: +8801301365352</p>
+                        <p><i class="fas fa-envelope"></i> Email: phrmtrade.int@gmail.com</p>
+                        <p><i class="fab fa-weixin"></i> WeChat: wxid_175z3px7lfgj22</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>&copy; 2025 PharmaTrade International. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

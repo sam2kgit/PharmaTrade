@@ -1,0 +1,46 @@
+
+make a portfolio responsive website of someone doing import export trade using the following instruction .
+
+Navbar Section: there will be home , products , about us .each button will navigate to there sections. home will take you to banner section,products will go to body section,about us will take you to about us section And on the left put heading "PharmaTrade" .
+
+Banner Section: use the logo.png image for background and give heading/title :“Delivering Quality, Building Partnerships” add one two small sentences below heading if you want to add below it.  Add two buttons, products and contact . products will navigate to you to body section and contact will navigate to footer section.
+
+body section :
+Categories Sidebar :there will be 4 catagories animal , Pharmaceuticals , Nutraceuticals , Plant Extract ,new products. each will show their respective product cards.
+
+product cards:use card.txt . This section will default show at least 6-9 cards in a card grid
+ format.Each Card will have product name and its iems.if the items is too much ,make it in columns to fit in the cards.
+
+About us section:
+
+Give a heading “About Us” and then put  “At Pharmatrade International, we are a trusted pharmaceutical indenting company committed to bridging the gap between global suppliers and local manufacturers. With a deep understanding of the industry and a strong global network, we specialize in sourcing and supplying high-quality Active Pharmaceutical Ingredients (APIs), intermediates, excipients, and other specialty chemicals.” Below it.
+
+Our Mission
+To provide reliable, timely, and quality pharmaceutical sourcing solutions that meet the evolving needs of our partners and contribute to better healthcare outcomes.
+
+Our Vision
+To be recognized as a leading indenting partner in the pharmaceutical sector, known for our integrity, innovation, and customer-centric approach.
+
+What We Do
+Indenting Services: We act as an essential link between manufacturers and importers, ensuring smooth transactions and regulatory compliance.
+Product Sourcing: We connect our clients with top-quality APIs, excipients, and formulations from reputed global suppliers.
+Regulatory Support: Our team offers end-to-end assistance in documentation, DMF handling, and regulatory approvals.
+
+Why Choose Us
+Global Network: Partnerships with leading manufacturers across China.
+Experienced Team: Professionals with technical expertise and industry insights.
+Customer-Focused: Customized solutions to meet specific client needs.
+Compliance & Quality: Commitment to sourcing from GMP-compliant, regulatory-approved suppliers.
+  
+
+
+Footer section :
+
+This will have quick links of category pages .and contact us.
+
+Contact us :
+md.obaidul kabir
+partner , strategic bussiness development .
+ Phone/whatsapp : +8801301365352
+Email: phrmtrade.int@gmail.com
+Wechat: wxid_175z3px7lfgj22
