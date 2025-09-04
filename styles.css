@@ -173,8 +173,8 @@ ul {
     top: 40%;
     left: 50%;
     transform: translate(-50%, -80%);
-    width: 370px;
-    height: 370px;
+    width: 380px;
+    height: 380px;
     background: url('info/logo-fotor-bg-remover-20250904123326.png') no-repeat center center;
     background-size: contain;
     opacity: 1;
@@ -556,6 +556,12 @@ footer {
     .product-cards {
         grid-template-columns: repeat(2, 1fr);
     }
+    .banner::after {
+   
+    width: 270px;
+    height: 280px;
+    
+}
 }
 
 @media (max-width: 768px) {
