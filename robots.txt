@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pharma-trade-bd.vercel.app/sitemap.xml
